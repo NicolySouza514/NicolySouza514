@@ -1,7 +1,9 @@
 
 # 👋 Olá, eu sou nicoly
 
-octocat-1763126076567.png
+<img width="2000" height="2000" alt="octocat-1763126076567" src="https://github.com/user-attachments/assets/7dbf0c3b-9d70-4669-bfc5-6db6ff80b09c" />
+
+
 
 ## 🌍 Sobre mim
 - 💻 Estudante do cursotecnico do desenvolvimento de sistemas 
