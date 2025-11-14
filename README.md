@@ -1,6 +1,8 @@
 
 # 👋 Olá, eu sou nicoly
 
+octocat-1763126076567.png
+
 ## 🌍 Sobre mim
 - 💻 Estudante do cursotecnico do desenvolvimento de sistemas 
 - 🛠️ Gostaria de contibuir  em projetos open source (traduções, documentaçao e codigo) 
